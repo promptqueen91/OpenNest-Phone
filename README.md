@@ -72,5 +72,3 @@ I'm currently researching PiPhone, PinePhone and Raspberry Pi-based builds to de
 ---
 
 > “It always seems impossible until it’s done.” – Nelson Mandela
-
----
