@@ -1,0 +1,11 @@
+Component,Category,Estimated Price (€),Purchase Link,Compatibility,Status,Notes
+Raspberry Pi 4 (4GB),Mainboard,60,https://www.amazon.it/dp/B07TD42S27,High,To Order,Recommended base board
+Touchscreen 3.5” HDMI,Display,25,https://www.aliexpress.com/item/1005005824572645.html,High,To Order,Compatible with RPi
+MicroSD 32GB,Storage,7,https://www.amazon.it/dp/B08GY8NH3F,High,To Order,Class A1/UHS-I
+Power Bank 5V 2A,Power,15,https://www.amazon.it/dp/B00PZ1PFOA,High,To Order,Alternative to fixed power
+SIM800L GSM Module,Communication,10,https://www.aliexpress.com/item/32849931234.html,Medium,Optional,For SMS/SIM calls
+Mini Speaker + Microphone,Audio,5,https://www.adafruit.com/product/1669,Medium,Optional,For audio testing
+DAC Audio + Jack,Audio,10,https://www.aliexpress.com/item/33012440888.html,Medium,Optional,For better sound output
+3D Printed Case,Enclosure,15,Local or online,Custom,To Design,FabLab or 3DHubs
+Jumper Wires + Breadboard,Prototyping,5,Local/Amazon,High,To Order,For solderless testing
+Power Adapter 5V 2.5A,Power,10,Amazon,High,Optional,For initial boot tests
